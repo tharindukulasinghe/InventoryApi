@@ -1,0 +1,9 @@
+IC001, iPhone 13,0777869554, Replace Screen; 
+IC002, Samsung S4, 0775698856, Issue with BT; 
+IC001, iPhone 13,0778962201,Not charging; 
+IC003, Sony XM4, 0768957756, Replace ear pads; 
+IC004, DJI Mavic 3, 0718965547, Broken wings; 
+IC005, Apple Watch, 0715596654, Not working; 
+IC001, iphone 13, 0115566987, Display cracked; 
+IC006, Logitech G413, 091889928, Replace arrow keys; 
+IC007, Macbook Pro, 056998854, Fix sounds; 
